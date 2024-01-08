@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/740166464.svg)](https://zenodo.org/doi/10.5281/zenodo.10467602)
 # Antibody kinetics after SARS-CoV-2 mRNA vaccination in PARIS
 
 This repository contains SAS code corresponding to a 2-component nonlinear mixed-effects model used in an upcoming paper (preprint doi: https://doi.org/10.1101/2023.08.26.23294679).
